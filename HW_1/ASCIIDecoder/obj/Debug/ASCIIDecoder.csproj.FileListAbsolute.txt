@@ -1,0 +1,7 @@
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\ASCIIDecoder\bin\Debug\ASCIIDecoder.exe.config
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\ASCIIDecoder\bin\Debug\ASCIIDecoder.exe
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\ASCIIDecoder\bin\Debug\ASCIIDecoder.pdb
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\ASCIIDecoder\obj\Debug\ASCIIDecoder.csprojAssemblyReference.cache
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\ASCIIDecoder\obj\Debug\ASCIIDecoder.csproj.CoreCompileInputs.cache
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\ASCIIDecoder\obj\Debug\ASCIIDecoder.exe
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\ASCIIDecoder\obj\Debug\ASCIIDecoder.pdb

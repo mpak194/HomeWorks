@@ -1,0 +1,7 @@
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task04\bin\Debug\Task04.exe.config
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task04\bin\Debug\Task04.exe
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task04\bin\Debug\Task04.pdb
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task04\obj\Debug\Task04.csprojAssemblyReference.cache
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task04\obj\Debug\Task04.csproj.CoreCompileInputs.cache
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task04\obj\Debug\Task04.exe
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task04\obj\Debug\Task04.pdb

@@ -1,0 +1,6 @@
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task02\bin\Debug\Task02.exe.config
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task02\bin\Debug\Task02.exe
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task02\bin\Debug\Task02.pdb
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task02\obj\Debug\Task02.csproj.CoreCompileInputs.cache
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task02\obj\Debug\Task02.exe
+C:\Users\Марк\Documents\Visual Studio 2017\Project\Курс_1\HomeWork\Task02\obj\Debug\Task02.pdb
