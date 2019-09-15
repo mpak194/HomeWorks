@@ -27,7 +27,7 @@ namespace Task05
                         if (k1 > 0 & k2 > 0) //проверка данных на диапазон
                         {
                             //вывод ответа
-                            Console.WriteLine("Гипотенуза равна {0}", (Math.Sqrt(k1 * k1 + k1 * k2)).ToString("F3"));
+                            Console.WriteLine("Гипотенуза равна {0}", (Math.Sqrt(k1 * k1 + k2 * k2)).ToString("F3"));
                             break;
                         }
                         else
